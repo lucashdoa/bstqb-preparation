@@ -28,3 +28,10 @@
 
 Identificar recursos e atividades necessarias para cumprir a missão;
 Identificar métodos de coleta de metricas;
+
+### Questão 1 do Simulado
+
+Valor: 3 pts
+
+Minha resposta: [a, b]
+Resposta correta: [b, e]
