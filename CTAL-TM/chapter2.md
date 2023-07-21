@@ -19,3 +19,16 @@ São stakeholders do teste:
 1. Coordenadores de projeto
 1. Suporte tecnico
 1. Usuários diretos e indiretos
+
+### 2.2.2 Outras atividades de ciclo de vida de desenvolvimento de software e produtos de trabalho
+
+[Lista] Outras atividades relacionadas ao teste
+
+- Engenharia e gerenciamento de requisitos
+- Coordenação de projetos
+- Gerenciamento de configurações, de lançamentos e de alterações
+- Desenvolvimento e manutenção de software
+- Suporte técnico
+- Elaboração de documentos técnicos
+
+### 2.2.3 Alinhamento de atividades de teste e outras atividades de ciclo de vida
