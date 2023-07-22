@@ -35,3 +35,14 @@ Valor: 3 pts
 
 Minha resposta: [a, b]
 Resposta correta: [b, e]
+
+## 1.3 Analise de testes
+
+As condicoes de teste sao produtos da analise de teste.
+
+### Questão 3 do Simulado
+
+Valor: 1 pt
+
+Minha resposta: [c, e]
+Resposta correta: [a, d]
