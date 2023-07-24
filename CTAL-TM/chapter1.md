@@ -46,3 +46,5 @@ Valor: 1 pt
 
 Minha resposta: [c, e]
 Resposta correta: [a, d]
+
+## 1.4 Modelagem de testes
