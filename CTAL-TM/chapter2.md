@@ -32,3 +32,10 @@ São stakeholders do teste:
 - Elaboração de documentos técnicos
 
 ### 2.2.3 Alinhamento de atividades de teste e outras atividades de ciclo de vida
+
+[Lista] Outros níveis de teste
+
+- Teste de integração de hardware-software
+- Teste de integração de sistemas
+- Teste de integração entre caracteristicas
+- Teste de integração de produtos do cliente
